@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Kolkata", "New Delhi", "Mumbai", "Delhi"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Who developed Python?",
+    "options": ["Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup", "James Gosling"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "What is the output of 2 ** 3?",
+    "options": ["6", "8", "9", "5"],
+    "answer": "8"
+  }
+]

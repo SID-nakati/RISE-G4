@@ -1,0 +1,47 @@
+[
+    {
+        "amount": 321.0,
+        "category": "Food",
+        "date": "2025-6-6"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Shirt Shopping",
+        "date": "2025-6-6"
+    },
+    {
+        "amount": 800.0,
+        "category": "Train Ticket",
+        "date": "2025-6-19"
+    },
+    {
+        "amount": 900.0,
+        "category": "Food",
+        "date": "2025-6-15"
+    },
+    {
+        "amount": 10.0,
+        "category": "Bus Travel",
+        "date": "2025-6-31"
+    },
+    {
+        "amount": 800.0,
+        "category": "Fees",
+        "date": "2025-7-1"
+    },
+    {
+        "amount": 100.0,
+        "category": "Books",
+        "date": "2025-7-2"
+    },
+    {
+        "amount": 100.0,
+        "category": "Sports",
+        "date": "2025-7-5"
+    },
+    {
+        "amount": 500.0,
+        "category": "Ticket",
+        "date": "2025-7-7"
+    }
+]

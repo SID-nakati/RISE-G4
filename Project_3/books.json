@@ -1,0 +1,77 @@
+{
+    "101": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "available": true
+    },
+    "102": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "available": false
+    },
+    "103": {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": true
+    },
+    "104": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "available": true
+    },
+    "105": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "available": true
+    },
+    "106": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "available": false
+    },
+    "107": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "available": true
+    },
+    "108": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "available": false
+    },
+    "109": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "available": true
+    },
+    "110": {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "available": true
+    },
+    "111": {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "available": true
+    },
+    "112": {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "available": true
+    },
+    "113": {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "available": true
+    },
+    "114": {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "available": false
+    },
+    "115": {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "available": true
+    }
+}

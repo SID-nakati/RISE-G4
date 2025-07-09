@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Morning Walk",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Drink Water",
+        "completed": true,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Check Emails",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Team Meeting",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Write Journal",
+        "completed": true,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Read News",
+        "completed": false,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Client Follow-up",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Submit Report",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-07-08"
+    },
+    {
+        "title": "Workout",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Plan Dinner",
+        "completed": true,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Code Practice",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Pay Bills",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-07-08"
+    },
+    {
+        "title": "Laundry",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Call Parents",
+        "completed": true,
+        "priority": "Medium",
+        "due_date": "2025-07-08"
+    },
+    {
+        "title": "Water Plants",
+        "completed": true,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Organize Desk",
+        "completed": false,
+        "priority": "Low",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Backup Files",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-07-10"
+    },
+    {
+        "title": "Prepare Presentation",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-07-10"
+    },
+    {
+        "title": "Meditate",
+        "completed": true,
+        "priority": "Medium",
+        "due_date": "2025-07-09"
+    },
+    {
+        "title": "Update Resume",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2025-07-10"
+    }
+]
